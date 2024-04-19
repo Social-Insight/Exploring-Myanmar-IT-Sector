@@ -1,6 +1,6 @@
 # Exploring Myanmar IT Sector (Conducted by Social Insight)
 
-![Myanmar IT Sector](https://your-image-url-here.com)
+![Myanmar IT Sector](Insight)
 
 ## Overview
 
