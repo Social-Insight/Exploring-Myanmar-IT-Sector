@@ -1,7 +1,7 @@
 # Exploring Myanmar IT Sector (Conducted by Social Insight)
 
 ![Myanmar IT Sector](Insight)
-
+For detail, please refer to the [dashboard](https://lookerstudio.google.com/reporting/25e9bb31-56df-410d-889b-877263022439). 
 ## Overview
 
 This study conducted by Social Insight provides valuable insights into the Myanmar IT sector, covering various aspects such as programming languages, interest in IT sectors, learning preferences, salary ranges, motivations to learn IT or CS, and types of occupations. The data was collected from 1000 participants affiliated with Myanmar Tech Associate.
